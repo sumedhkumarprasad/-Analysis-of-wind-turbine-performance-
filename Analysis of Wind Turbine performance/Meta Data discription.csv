@@ -1,0 +1,22 @@
+Column Name,Data Type,Short Discription,Unit of Measure,,,
+unitlocation,Character,"It has two unit location ""WTG01"" and ""WTG02""",,,,
+ttimestamplocal,Date Time,"01-06-2013  11:50:00 PM "" is in format DD-MM-YYYY HH:MM:SS""",,,,
+power,Numeric,Avg. Power generated ,kW,,,
+windspeed,Numeric,Avg. Wind Speed,m/s,,,
+airdensity,Numeric,Avg. Air Density,kg/m^3,,,
+amb_temp,Numeric,Avg. Outside Temperature,deg C,,,
+nac_direction,Numeric,Avg. nacelle direction,deg ,,,
+blds_pitchangle,Numeric,Avg. pitch angle of Blades,deg,,,
+rtr_rpm,Numeric,Avg. Rotar Speed,rpm,,,
+gen_rpm,Numeric,"Avg. Generator Speed (30-60 rotations per minute (rpm), to about 1,000-1,800 rpm )",rpm,,,
+wtg_state,Character,Turbine Status ,,,,
+,,,,,,
+,,,,,,
+,,,,,wtg_state,Short Discription
+,,,,,Ok ,The turbine is in normal operation
+,,,,,Curtailed ,The turbine is limited in output
+,,,,,gen not conn,The genrator is not connected and turbine is off
+,,,,,wind low,Wind speed is too low to operate
+,,,,,high wind cut-out,Wind speed is too high to operate
+,,,,,service ,The turbine is in service
+,,,,,data error,The data reading are not within the Expected limits

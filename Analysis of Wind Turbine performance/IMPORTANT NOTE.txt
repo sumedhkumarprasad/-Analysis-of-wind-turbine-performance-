@@ -1,0 +1,14 @@
+IMPORTANT NOTE
+
+I have rename the csv file name with "wtgdata.csv" to "wt_data.csv".
+
+There three R codes file and corressponding output file in word.
+
+There is Also output folder is there to see all plots / graphs.
+
+DataSet Attached in csv format.
+
+Vestas Presentation 
+
+Sumedh Kumar Prasad profile Presentation.
+
